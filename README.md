@@ -1,4 +1,4 @@
-# AWS-MN
+# AWS(Amazon Web Services)
 
 
 Sure! Here's an overview of some key AWS services:
